@@ -1,54 +1,119 @@
 ---
-framework_version: 1.0.0
+framework_version: 1.1.1
 ---
 
 # Behavioral Profile
 
-<!-- SETUP: This file is populated by running /setup -->
-<!-- You can use results from PI, DISC, Myers-Briggs, StrengthsFinder, or a self-assessment -->
+## Problem-Solving Approach
 
-## Overview
-[YOUR_NAME]'s behavioral assessment identifies them as a **[PROFILE_TYPE]** pattern. [1-2 SENTENCE_SUMMARY].
+I enjoy taking messy business data, finding the story within it, and turning that story into useful output.
 
-## Core Behavioral Drives
+When approaching a problem, I prefer to:
 
-| Drive | Level | Meaning |
-|-------|-------|---------|
-| [DRIVE_1] | [LEVEL] | [DESCRIPTION] |
-| [DRIVE_2] | [LEVEL] | [DESCRIPTION] |
-| [DRIVE_3] | [LEVEL] | [DESCRIPTION] |
-| [DRIVE_4] | [LEVEL] | [DESCRIPTION] |
+1. Understand the objective clearly.
+2. Explore the available information and data.
+3. Break the problem into manageable parts.
+4. Work independently to see whether I can solve it.
+5. Ask for guidance when I am genuinely stuck.
+6. Learn what is necessary to overcome the problem.
+7. Apply the learning to the current problem and future situations.
 
-## Strongest Behaviors
-- **[BEHAVIOR_1]:** [DESCRIPTION]
-- **[BEHAVIOR_2]:** [DESCRIPTION]
-- **[BEHAVIOR_3]:** [DESCRIPTION]
+## What Motivates Me
 
-## How You Work Best
-- [ENVIRONMENT_PREFERENCE_1]
-- [ENVIRONMENT_PREFERENCE_2]
-- [ENVIRONMENT_PREFERENCE_3]
+I am motivated by:
 
-## Growth Areas (frame positively in applications)
-- **[AREA_1]:** [HOW_TO_FRAME_IT_POSITIVELY]
-- **[AREA_2]:** [HOW_TO_FRAME_IT_POSITIVELY]
+- Clear objectives and expectations.
+- Challenging problems that require analysis and problem-solving.
+- Opportunities to learn new skills.
+- Environments that support continuous learning.
+- Opportunities for professional growth.
+- Having flexibility in how I approach and solve problems.
+- Turning data into useful insights and outputs.
 
-## Mapping to Job Posting Language
+## Preferred Working Style
 
-When a job posting mentions these keywords, it's a **strong behavioral fit**:
-- [KEYWORD_OR_PHRASE_THAT_MATCHES_YOUR_STYLE]
-- [ANOTHER_KEYWORD]
+I prefer a combination of independent work and teamwork.
 
-When a job posting mentions these, flag as **potential friction** (not deal-breaker):
-- [KEYWORD_OR_PHRASE_THAT_MIGHT_CLASH]
-- [ANOTHER_KEYWORD]
+I am comfortable taking ownership of tasks and working independently, while also valuing collaboration, guidance and knowledge-sharing when working with others.
 
-## Management Style Preferences
-- [WHAT_MANAGEMENT_STYLE_WORKS_FOR_YOU]
-- [WHAT_DOESN'T_WORK]
+I perform best when the objective is clear but there is reasonable flexibility in how the problem can be approached.
 
-## Using This in Applications
-- **Cover letters:** [HOW_TO_WEAVE_IN_BEHAVIORAL_STRENGTHS]
-- **CV:** [WHAT_TO_EMPHASIZE]
-- **Interviews:** [WHAT_STAR_EXAMPLES_TO_USE]
-- **Don't overstate:** [WHAT_NOT_TO_CLAIM]
+## Strengths
+
+### Patience
+
+I remain patient when working through problems and am willing to spend time understanding an issue rather than rushing to an answer.
+
+### Learning Mindset
+
+When I encounter something I do not know, I try to learn what is necessary to solve the problem and use that knowledge going forward.
+
+### Attention to Detail
+
+I pay attention to details when working with data, reports and business information, particularly where accuracy matters.
+
+## What I Enjoy
+
+- Working with business data.
+- Exploring messy or unstructured data to find useful patterns.
+- Finding the story behind data.
+- Converting analysis into useful output.
+- Solving challenging problems.
+- Learning new tools and concepts.
+- Working toward a clear objective.
+
+## What I Dislike
+
+I prefer to avoid:
+
+- Repetitive manual work that could potentially be improved or automated.
+- Constant meetings without productive output.
+- Unclear requirements or responsibilities.
+- Aggressive sales-target environments.
+
+## Handling Challenges
+
+When I encounter a problem or get stuck, my first approach is to try to understand and handle it independently.
+
+If I cannot make sufficient progress, I ask for help or guidance rather than remaining blocked. I then use the opportunity to learn what I was missing and apply that learning to the problem.
+
+## Ideal Work Environment
+
+An ideal work environment for me would provide:
+
+- Clear objectives.
+- Challenging analytical problems.
+- Opportunities to learn.
+- A supportive learning environment.
+- Opportunities for career growth.
+- Flexibility in problem-solving.
+- A healthy balance of independent work and teamwork.
+
+## Career Motivation
+
+My interest in analytics comes from working with real business data and seeing how analysis can turn raw information into useful insights.
+
+I particularly enjoy the process of taking business data, identifying meaningful patterns or problems, and converting the findings into something useful for decision-making.
+
+## Interview Positioning
+
+### Core Personal Qualities
+
+- Patient
+- Learning-oriented
+- Detail-oriented
+
+### Working Style
+
+- Independent when appropriate.
+- Collaborative when required.
+- Comfortable asking for guidance when necessary.
+- Focused on understanding the objective before solving the problem.
+
+### Problem-Solving Philosophy
+
+> Understand the problem, try to solve it independently, seek guidance when necessary, learn from the gap, and apply that learning.
+
+### Strongest Behavioral Theme
+
+**Turning ambiguity in data into useful understanding and actionable output.**
