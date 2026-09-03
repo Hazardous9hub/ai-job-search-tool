@@ -60,9 +60,11 @@ How well do the required/preferred skills align with the candidate's capabilitie
 | 40-59 | Partial match, significant upskilling needed |
 | 0-39 | Fundamental mismatch |
 
-**Strong match areas:** [YOUR_PRIMARY_SKILLS]
-**Moderate match areas:** [YOUR_SECONDARY_SKILLS]
-**Weak match areas:** [SKILLS_YOU_LACK]
+**Strong match areas:** SQL, Python (Pandas, NumPy), Advanced Excel, Tableau, Exploratory Data Analysis, Probability & Statistics, Business / Operational Data Analysis, MIS Reporting & Automation
+
+**Moderate match areas:** Power BI, SAP ECC, Statistical Analysis, Hypothesis Testing, Business Intelligence, Data Science
+
+**Weak / developing areas:** Advanced Machine Learning, Deep Learning, Production ML / MLOps, Advanced Power BI
 
 ### 2. Experience Match (0-100)
 Does work history align with what they're looking for? Match on the function and nature of the work performed, not the literal job title - a "Data Consultant" and a "Data Scientist" role can be functionally identical.
@@ -74,9 +76,11 @@ Does work history align with what they're looking for? Match on the function and
 | 40-59 | Adjacent experience, would need to make the case |
 | 0-39 | Unrelated experience |
 
-**Strong:** [YOUR_DIRECT_EXPERIENCE_DOMAINS]
-**Moderate:** [YOUR_ADJACENT_EXPERIENCE]
-**Entry-level:** [ROLES_WITH_LIMITED_EXPERIENCE]
+**Strong:** Data Analysis, Sales Performance Analysis, Business Reporting / MIS, Operational Analytics, Dealer Credit Analysis, Retail / Petroleum Business Data
+
+**Moderate:** E-commerce Analytics, Product / Customer Analytics, BI / Dashboarding, Data Science
+
+**Entry-level:** Data Scientist, Product Analyst, Data Analyst Intern
 
 ### 3. Behavioral/Culture Fit (0-100)
 Does the role and company culture match the behavioral profile?
@@ -107,19 +111,17 @@ Does this role advance career goals and contain tasks that energize?
 | 0-39 | Dead end or backwards step |
 
 **Career goals:**
-- [YOUR_CAREER_GOAL_1]
-- [YOUR_CAREER_GOAL_2]
-- [YOUR_CAREER_GOAL_3]
+- Transition into a strong Data Analyst, Business Analyst, BI Analyst or Product Analyst role.
+- Build toward Data Science through stronger statistics, Python and machine-learning capabilities.
+- Work on real business problems where data can drive decisions.
 
 **Motivation filter:** Evaluate not just whether you *can* do the tasks, but whether the tasks will *energize* you. Consider:
-- Tasks that energize: [YOUR_ENERGIZING_TASKS]
-- Tasks that drain: [YOUR_DRAINING_TASKS]
+- Tasks that energize: Messy business-data analysis, finding patterns and stories, turning analysis into useful outputs, problem solving, learning, data-driven decision making
+- Tasks that drain: Repetitive manual work, constant meetings, unclear requirements, aggressive sales targets
 - Non-task factors: leadership style, department culture, company values, degree of autonomy
 
 **Life situation alignment:** Consider personal constraints:
-- **Security**: [YOUR_FINANCIAL_SITUATION_CONTEXT]
-- **Flexibility**: [YOUR_SCHEDULE_CONSTRAINTS]
-- **Professional development**: [YOUR_GROWTH_PRIORITIES]
+- **Professional development**: Build stronger analytical, statistical, Python and machine-learning capabilities while gaining practical experience with real business problems.
 
 ### 6. Salary Benchmark (Optional)
 
