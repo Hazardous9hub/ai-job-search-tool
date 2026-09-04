@@ -17,5 +17,5 @@ foreach ($search in $searches) {
         --location $search.Location `
         --jobage 30 `
         --limit 10 `
-        --format table
+        --format json
 }
