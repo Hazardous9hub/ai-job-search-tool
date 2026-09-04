@@ -1,4 +1,4 @@
-# Job Application Assistant for [YOUR_NAME]
+# Job Application Assistant for SHIVALING BATTARKI
 
 <!-- SETUP: This file is populated by running /setup -->
 <!-- After running /setup, all [PLACEHOLDER] tokens will be replaced with your actual information -->
@@ -16,76 +16,93 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 <!-- This section is auto-populated by /setup. You can also fill it in manually. -->
 
 ### Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_CITY], [YOUR_COUNTRY] ([YOUR_COMMUTE_CONSTRAINTS])
+- **Name:** SHIVALING BATTARKI
+- **Location:** Hyderabad, Telangana, India (Hyderabad preferred; also open to Bengaluru, Pune, Remote, and Hybrid)
 - **Languages:**
   | Language | Level |
   |----------|-------|
-  | [LANGUAGE] | [LEVEL] |
+  | English | Fluent |
+  | Hindi | Fluent |
+  | Kannada | Native |
   <!-- Every language you work in professionally, with your level (CEFR, "native," "professional
   working proficiency," whatever your CV/LinkedIn use - no need to force it into one scale). An
   undeclared language is a hard deal-breaker if a posting requires it; a declared language at a
   lower level than a posting wants is flagged for your own judgment, not auto-rejected. See
   04-job-evaluation.md's Language Gate. -->
-- **CV language:** [YOUR_CV_LANGUAGE] <!-- English unless your market expects otherwise; /setup asks -->
+- **CV language:** English <!-- English unless your market expects otherwise; /setup asks -->
 
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
+- **Status:** Unemployed and actively looking for Data Analyst / Data Science roles
+- **LinkedIn headline:** "Data Analyst | SQL - Python - Tableau - Advanced Excel | Ex-BPCL"
 
 ### Education
 <!-- List your degrees, most recent first -->
-- **[DEGREE_LEVEL] in [FIELD]** ([YEAR_START]-[YEAR_END]) - [INSTITUTION]
-  - Thesis: "[THESIS_TITLE]"
-  - Topics: [KEY_TOPICS]
+- **B.E. in Mechanical Engineering** (2018-2022) - Brindavan College of Engineering, VTU Belagavi 
+  - Topics: Mechanical Engineering
 
 ### Professional Experience
-<!-- List your roles, most recent first -->
-- **[JOB_TITLE]** ([START_DATE] - [END_DATE]) - **[COMPANY]** ([LOCATION])
-  - [KEY_RESPONSIBILITY_1]
-  - [KEY_RESPONSIBILITY_2]
-  - [KEY_ACHIEVEMENT]
+
+- **Engineering Apprentice** (Nov 2024 - Nov 2025) - **Bharat Petroleum Corporation Limited (BPCL)** (Kalaburagi, Karnataka)
+  - Analyzed daily sales data across 350+ petroleum retail outlets and prepared recurring sales and tank-stock reports.
+  - Analyzed approximately two years of petroleum sales across 50+ outlets to support dealer bank-credit eligibility assessment.
+  - Built and maintained Excel-based MIS reporting using XLOOKUP/VLOOKUP, SUMIFS, IF/IFS, Pivot Tables, Conditional Formatting, Data Validation, and VBA.
+  - Supported commissioning of 37 new retail outlets during FY 2024-25 and contributed to QCC/process-improvement reporting.
 
 ### Technical Skills
-- **Primary:** [YOUR_PRIMARY_SKILLS]
-- **Secondary:** [YOUR_SECONDARY_SKILLS]
-- **Domain:** [YOUR_DOMAIN_EXPERTISE]
-- **Software:** [YOUR_TOOLS_AND_SOFTWARE]
+
+- **Primary:** SQL, Python, Pandas, NumPy, Advanced Excel, Tableau, Exploratory Data Analysis, Probability & Statistics
+- **Secondary:** Power BI, SAP ECC, Hypothesis Testing, Statistical Analysis, Business Intelligence, Data Science
+- **Domain:** Business / Operational Data Analysis, Sales Performance Analysis, MIS Reporting, Dealer Credit Analysis, Retail / Petroleum Business Data
+- **Software:** SQL, Python, Tableau, Microsoft Excel, SAP ECC, Power BI
 
 ### Certifications
+
 <!-- List relevant certifications with dates -->
-- **[CERTIFICATION_NAME]** - [HOURS]h - completed [DATE]
+
+- **Data Analytics & Visualisation - Probability and Stats** - Scaler DSML (Aug 2026)
+- **Data Analytics Job Simulation** - Deloitte Australia, via Forage (Aug 2026)
+- **SQL - Skill Mastery Certification** - Scaler & InterviewBit | SQL, Scaler DSML (Aug 2026)
+- **Data Analytics & Visualisation - Python Libraries** - Scaler DSML (Jul 2026)
+- **Python - Beginner 1 & 2** - Scaler DSML (May-Jun 2026)
+- **Tableau and Excel** - Scaler DSML (Apr 2026)
+- **SQL (Basic) - Certificate of Accomplishment** - HackerRank (Feb 2026)
+- **HackerRank SQL - 5-Star Gold Badge**
 
 ### Publications
+
 <!-- List peer-reviewed publications, if any -->
-- [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL].
+
+- None
 
 ### Awards
+
 <!-- List relevant awards, hackathons, competitions -->
-- [AWARD_NAME] - [EVENT] ([YEAR])
+
+- None
 
 ### Behavioral Profile
 <!-- Your behavioral assessment results (PI, DISC, Myers-Briggs, or self-assessment) -->
-- **[TRAIT_1]** - [DESCRIPTION]
-- **[TRAIT_2]** - [DESCRIPTION]
-- **Strengths:** [YOUR_STRENGTHS]
-- **Growth areas:** [YOUR_GROWTH_AREAS]
-- **Thrives in:** [YOUR_IDEAL_ENVIRONMENT]
+- **Analytical:** Enjoys working with messy business data, identifying patterns, and turning analysis into useful outputs.
+- **Learning-oriented:** Motivated by challenges, learning, growth, and developing new analytical capabilities.
+- **Strengths:** Patience, learning mindset, attention to detail, problem solving
+- **Growth areas:** Advanced Machine Learning, Deep Learning, Production ML / MLOps, Advanced Power BI
+- **Thrives in:** Roles with clear objectives, meaningful analytical problems, learning opportunities, autonomy, and a mix of independent and collaborative work
 
 ### What Excites You
 <!-- What motivates you professionally -->
-- [PASSION_1]
-- [PASSION_2]
+- Finding patterns and stories in messy business data
+- Turning analysis into useful outputs and supporting data-driven decisions
+- Problem solving, learning, and continuous skill development
 
 ### Target Sectors
 <!-- Industries and companies you're targeting -->
-- [SECTOR_1]: [EXAMPLE_COMPANIES]
-- [SECTOR_2]: [EXAMPLE_COMPANIES]
+- **IT:** Data-driven technology and analytics roles
+- **E-commerce:** Analytics, BI, business and product-focused data roles
 
 ### Deal-breakers
 <!-- Hard constraints on job search. Language requirements are handled separately and
 automatically from your Languages table above - don't duplicate them here. -->
-- [DEALBREAKER_1]
-- [DEALBREAKER_2]
+- Unpaid internships
+- Roles dominated by repetitive manual work, unclear requirements, constant meetings, or aggressive sales targets
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)
