@@ -48,7 +48,7 @@ Judge the level comparison the same way you judge everything else in this framew
 
 ## Scoring Dimensions
 
-Evaluate each job posting against these five dimensions:
+Evaluate each job posting against these six dimensions:
 
 ### 1. Technical Skills Match (0-100)
 How well do the required/preferred skills align with the candidate's capabilities?

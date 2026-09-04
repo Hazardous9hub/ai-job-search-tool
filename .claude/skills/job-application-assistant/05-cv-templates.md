@@ -130,11 +130,11 @@ When the role sits outside your home domain, **lead with the domain-transfer arg
 **Create 2-3 profile statement templates for your main role types:**
 
 <!-- SETUP: These are populated based on your background -->
-**For [YOUR_PRIMARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_1]
+**For Data Analyst / Business Analyst / BI Analyst / Product Analyst roles:**
+> > Data Analyst with 1 year of experience at BPCL, specializing in SQL, Python, Advanced Excel, Tableau, and business data analysis. Experienced in analyzing sales and operational data across 350+ petroleum retail outlets, building MIS reports, and translating data into actionable business insights. Skilled in exploratory analysis, probability and statistics, and solving business problems through data-driven decision making. Transitioned from Mechanical Engineering into Data Analytics through structured Data Science and Machine Learning training.
 
-**For [YOUR_SECONDARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_2]
+**For Data Scientist roles:**
+> > Data professional transitioning into Data Science with hands-on experience in Python, Pandas, NumPy, SQL, exploratory data analysis, probability, and statistics. At BPCL, analyzed large-scale sales and operational data and supported business decisions across 350+ petroleum retail outlets. Built practical analytics projects involving statistical analysis, customer behavior, e-commerce, and business performance. Currently focused on strengthening machine-learning capabilities while applying analytical skills to real-world business problems.
 
 Statements labeled *[Used for: <company>_<role>]* were extracted from archived application drafts by `/setup` Path A. They are **phrasing references, never fact sources**: when drafting from one, every factual claim still comes from `01-candidate-profile.md` - a past tailored draft does not vouch for its own accuracy.
 
